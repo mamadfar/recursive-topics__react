@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+ul {
+    padding-left: 3em;
+    li {
+        padding-left: 2em;
+    }
+}
